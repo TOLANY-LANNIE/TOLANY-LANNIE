@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 - 💬 Ask me about **Java, Kotlin, Android, Python**
-- 📫 How to reach me **meshramaravind@gmail.com**
+- 📫 How to reach me **thulani.mpofu@outlook.com**
 - Loves 🎵 and 🎞 .
 
 ### Tools & Technology 🛠
