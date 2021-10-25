@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 - 💬 Ask me about **Java, Kotlin, Android, Python**
 - 📫 How to reach me **thulani.mpofu@outlook.com**
+- LinkedIn: [thulanimpofu](https://www.linkedin.com/in/thulani-mpofu/)
 - Loves 🎵 and 🎞 .
 
 ### Tools & Technology 🛠
