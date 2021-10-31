@@ -2,7 +2,7 @@
 ### A Passionate Software Developer
 
 
-- 🌱 I’m currently learning **Kotlin, Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin
 - 💬 Ask me about **Java, Kotlin, Android, Python**
 - 📫 How to reach me **thulani.mpofu@outlook.com**
 - Loves 🎵 and 🎞 .
