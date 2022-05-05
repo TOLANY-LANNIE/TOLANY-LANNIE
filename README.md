@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Java, Kotlin, Android, Python**
+- 💬 Ask me about **Java, Kotlin, Android, Python or JavaScript**
 - 📫 How to reach me **thulani.mpofu@outlook.com**
 - Loves 🎵 and 🎞 .
 
