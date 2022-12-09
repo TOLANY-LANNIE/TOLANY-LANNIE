@@ -2,7 +2,7 @@
 ### A Passionate Software Developer
 
 
-- 🌱 I’m currently learning **JavScript**
+- 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **Java, Kotlin, Android, Python or JavaScript**
 - 📫 How to reach me **thulani.mpofu@outlook.com**
 - Loves 🎵 and 🎞 .
