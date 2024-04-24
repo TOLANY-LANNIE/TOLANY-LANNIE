@@ -1,5 +1,5 @@
 # Thulani Mpofu 
-**`Passionate Software Developer`**
+**`Passionate Software Engineer`**
 
 - 🌱 I’m currently learning **Angular TypeScript**
 - 💬 Ask me about **Java, Kotlin, C#, TypeScript, Python or JavaScript**
