@@ -20,6 +20,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-us" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="mongoDB" width="40" height="40"/> </a>
 </p>
 
 
