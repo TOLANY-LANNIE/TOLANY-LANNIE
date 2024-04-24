@@ -1,7 +1,7 @@
 # Thulani Mpofu 
 **`Passionate Software Engineer`**
 
-- 🌱 I’m currently learning **Angular TypeScript**
+- 🌱 I’m working with**Angular TypeScript**
 - 💬 Ask me about **Java, Kotlin, C#, TypeScript, Python or JavaScript**
 - 📫 How to reach me **thulani.mpofu@outlook.com**
 - Loves 🎵 and 🎞 .
