@@ -15,7 +15,6 @@
   <a href="https://www.python.org" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://angular.dev" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com" target="_blank" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
